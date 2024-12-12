@@ -6,7 +6,7 @@ import Gmail from "../gmail.js";
 import Controller from './Controller.js';
 import AccessControl from '../accessControl.js';
 
-import PostsLikesController from './PostslikesController.js';
+import PostsLikesController from './PostsLikesController.js';
 import PostsController from './PostsController.js';
 
 export default class AccountsController extends Controller {

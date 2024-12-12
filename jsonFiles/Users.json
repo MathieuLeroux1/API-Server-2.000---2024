@@ -71,5 +71,15 @@
     "VerifyCode": "verified",
     "Authorizations": { "readAccess": 1, "writeAccess": 1 },
     "Id": "45674bc0-b81b-11ef-86da-bb4bf35178ac"
+  },
+  {
+    "Email": "nicolas@yopmail.com",
+    "Password": "password",
+    "Name": "Nicolas Yop",
+    "Avatar": "0a7d93c0-b893-11ef-b185-a7ea11a371fd.jpeg",
+    "Created": 1734030715,
+    "VerifyCode": "verified",
+    "Authorizations": { "readAccess": 2, "writeAccess": 2 },
+    "Id": "0a7d6cb0-b893-11ef-b185-a7ea11a371fd"
   }
 ]
